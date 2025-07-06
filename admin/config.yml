@@ -72,12 +72,6 @@ collections:
     name: pages
     delete: false
     files:
-      - name: admin-config.yml
-        label: ''
-        file: source\admin\config.yml
-        editor:
-          preview: true
-        fields: *ref_0
       - name: admin-index.html
         label: ''
         file: source\admin\index.html
